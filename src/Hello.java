@@ -1,6 +1,7 @@
 public class Hello {
 
     String message;
+    int num;
 
     public Hello() {
         this("안녕하세요");
