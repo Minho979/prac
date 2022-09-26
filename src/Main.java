@@ -5,7 +5,7 @@ public class Main {
         System.out.println(hello.say());
     }
 
-    public static void sub{String[] args} {
+    public static void sub(String[] args) {
         System.out.println("1234");
     }
 }
