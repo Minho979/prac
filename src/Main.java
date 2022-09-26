@@ -6,6 +6,6 @@ public class Main {
     }
 
     public static void sub(String[] args) {
-        System.out.println("1234");
+        System.out.println("12345");
     }
 }
