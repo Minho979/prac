@@ -5,7 +5,7 @@ public class Hello {
     //주석추가
 
     public Hello() {
-        this("안녕하세용");
+        this("안녕하세용!!");
     }
 
     public Hello(String message) {
